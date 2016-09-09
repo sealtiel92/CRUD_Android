@@ -1,4 +1,4 @@
 # CRUD_Android
-	android Crud use jsonplaceholder.typicode.com
+	android Crud use https://jsonplaceholder.typicode.com/posts?_limit=5
 	Listview Custom
 	Volley using singleton patron
